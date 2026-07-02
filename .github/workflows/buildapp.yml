@@ -16,7 +16,7 @@ on:
         default: "3.0.4"
         required: true
         type: string
-      decrypted_youtube_url: https://filebin.net/einvawqbspmswke3/com.google.ios.youtube-20.44.2-Decrypted.ipa
+      decrypted_youtube_url:
         description: "Direct URL of the decrypted YouTube IPA"
         default: ""
         required: true
